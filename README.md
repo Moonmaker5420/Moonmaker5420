@@ -1,5 +1,5 @@
 <h1 align="center">Hi,👋 I'm Linus Thomas</h1>
-<h3 align="center">Web Developer and Cyber Security researcher</h3>
+<h3 align="center">Linux Server Administrator and Cyber Security researcher</h3>
 
 Skills:  HTML / CSS / JS / PYTHON / REVERSE-ENGINEERING / BUG-BOUNTY/
 
