@@ -4,9 +4,8 @@
 Skills:  HTML / CSS / JS / PYTHON / REVERSE-ENGINEERING / BUG-BOUNTY/
 
 - 🔭 I’m currently working on Password Manager. 
-- 🌱 I’m currently learning Linux Server Administration. 
+- 🌱 I’m currently learning Devops. 
 - 👯 I’m looking to collaborate on Projects and CTF competitions 
-- 💬 Ask me about  HTML, CSS, JS, Python, Bug-Bounty.
 - 👨‍💻 All of my projects are available at [https://github.com/Moonmaker5420/](https://github.com/Moonmaker5420/code)
 - ⚡ Fun fact:  I'm still a trying to understand Assembly. 
 
