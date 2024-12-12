@@ -7,7 +7,7 @@ Skills:  HTML / CSS / JS / PYTHON / REVERSE-ENGINEERING / BUG-BOUNTY/
 - 🌱 I’m currently learning Devops. 
 - 👯 I’m looking to collaborate on Projects and CTF competitions 
 - 👨‍💻 All of my projects are available at [https://github.com/Moonmaker5420/](https://github.com/Moonmaker5420?tab=repositories)
-- ⚡ Fun fact:  I'm still a trying to understand Assembly. 
+- ⚡ Fun fact:  I'm still trying to understand Assembly. 
 
 
  (**Professional Certification**)
