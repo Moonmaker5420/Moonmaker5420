@@ -15,8 +15,7 @@
 - Linux Server Administration
 
 
-Portfolio - https://moonmaker5420.github.io
-
+Portfolio - https://moonmaker5420.github.io, https://linusthomas.ddns.net/
 Blogs - https://hacktheprotocol.ddns.net
 
 
